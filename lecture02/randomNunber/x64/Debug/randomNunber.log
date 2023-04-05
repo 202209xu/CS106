@@ -1,0 +1,2 @@
+﻿  random.cpp
+E:\CS106\lecture02\randomNunber\random.cpp(44,1): error C2857: 在源文件中没有找到用 /Yc不使用预编译头文件 命令行选项指定的“#include”语句
